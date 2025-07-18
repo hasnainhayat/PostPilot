@@ -43,8 +43,6 @@ PostPilot is not just a demo. It’s a **blueprint** for building LLM-powered sy
 ```text
 [ Topic Input ]
       ⬇️
-[ Strategy Chain ]
-      ⬇️
 [ Parallel Post Generation Chain ]
       ⬇️
 [ Review Chain ➡️ Improvement Chain ]
