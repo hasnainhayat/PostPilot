@@ -36,6 +36,14 @@ PostPilot is not just a demo. It’s a **blueprint** for building LLM-powered sy
 | Output Parsing   | Pydantic + custom formatters |
 | Parallelism      | LangChain ParallelChain   |
 
+
+---
+## Try it here
+https://postpilot.streamlit.app
+
+
+
+
 ---
 
 ## ⚙️ Architecture Overview
@@ -50,6 +58,5 @@ PostPilot is not just a demo. It’s a **blueprint** for building LLM-powered sy
 [ Final Platform-Specific Outputs ]
 
 
-## Try it here
-https://postpilot.streamlit.app
+
 
